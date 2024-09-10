@@ -1,0 +1,9 @@
+# flask
+# telethon
+# spacy
+# en_core_web_sm
+# # Flask[async]
+Flask
+Celery
+spacy
+telethon
